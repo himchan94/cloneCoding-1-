@@ -6,7 +6,7 @@ React 프로젝트 진행 전 CSS 구현능력을 키우기 위한 클론코딩�
 이번 강의에서 중점적으로 알게 된 것은 Markup 기술, ::before,::after, position(relative, absolute, static), grid 관련 내용을 학습 할 수 있었다.
 
 ### Markup using semantic tags
-
+```
 ● <header>
 <header>는 주로 머리말, 제목을 표현하기 위해 쓰인다.
   
@@ -42,4 +42,4 @@ HTML5에서 새롭게 생긴 시맨틱 태그이고 네비게이션으로, 콘�
   </body>
   
   
-
+```
